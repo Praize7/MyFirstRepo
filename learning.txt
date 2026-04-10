@@ -1,0 +1,1 @@
+I have learned that attention to detail, especially in spelling usernames like Praize7, is crucial in Git. I now know how to clone a repository and manage files via the terminal.
