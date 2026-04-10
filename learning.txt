@@ -1,1 +1,1 @@
-I have learned that attention to detail, especially in spelling usernames like Praize7, is crucial in Git. I now know how to clone a repository and manage files via the terminal.
+What I have learned from this course: I have learned how to use the Git command line to clone repositories, create and manage files, and use Personal Access Tokens (PAT) for secure authentication. I now understand the workflow of adding, committing, and pushing changes to GitHub.
